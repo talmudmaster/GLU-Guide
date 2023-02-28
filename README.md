@@ -20,7 +20,7 @@ GLU-Campus-Guide
 #### 软件架构
 软件架构说明
 
-![桂院导航云开发伪流程图](README/liuchengtu.png)
+![云开发伪流程图](README/liuchengtu.png)
 
 #### 安装教程
 
